@@ -140,10 +140,10 @@
 		}
 	</style>
     <body>
-        <div class="container">
-	    <div class="main">
-		<div class="fir"></div>
-		<div class="sec"></div>
-	    </div>
-        </div>   
+            <div class="container">
+	        <div class="main">
+		    <div class="fir"></div>
+		    <div class="sec"></div>
+	        </div>
+            </div>   
     </body>
