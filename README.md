@@ -2,7 +2,7 @@
 一个页面上两个div左右铺满整个浏览器，要保证左边的div一直为100px，右边的div跟随浏览器大小变化（比如浏览器为500，右边div为400，浏览器为900，右边div为800），请写出大概的css代码。
 
 1.横向自适应（弹性布局）
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset="utf-8">
@@ -42,7 +42,7 @@
 </body>
 </html>
 2.横向自适应（浮动布局）
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset="utf-8">
@@ -73,7 +73,7 @@
 </body>
 </html>
 3.竖向自适应(固定高度div为绝对定位)
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset="utf-8">
@@ -124,7 +124,7 @@
 </body>
 </html>
 4.竖向自适应（为固定div设置margin）
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset="utf-8">
