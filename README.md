@@ -3,10 +3,7 @@
 
 1.横向自适应（弹性布局）
 
-<html>
-<head>
-    <meta charset="utf-8">
-	<title>div自适应</title>
+
 	<style type="text/css" media="screen">
 	    * {
 	    	margin: 0;
@@ -31,16 +28,12 @@
 			background-color: blue;
 		}
 	</style>
-</head>
-<body>
 
 <div class="main">
 	<div class="fir"></div>
 	<div class="sec"></div>
 </div>
 
-</body>
-</html>
 2.横向自适应（浮动布局）
 
 <html>
