@@ -36,10 +36,7 @@
 
 2.横向自适应（浮动布局）
 
-<html>
-<head>
-    <meta charset="utf-8">
-	<title>div自适应</title>
+
 	<style type="text/css" media="screen">
 	    * {
 	    	margin: 0;
@@ -57,20 +54,13 @@
 			background-color: blue;
 		}
 	</style>
-</head>
-<body>
 
 	<div class="fir"></div>
 	<div class="sec"></div>
 
-</body>
-</html>
 3.竖向自适应(固定高度div为绝对定位)
 
-<html>
-<head>
-    <meta charset="utf-8">
-	<title>div自适应</title>
+
 	<style type="text/css" media="screen">
 	    * {
 	    	margin: 0;
@@ -106,7 +96,6 @@
 			background-color: blue;
 		}
 	</style>
-</head>
 <body>
     <div class="container">
 	    <div class="main">
@@ -115,13 +104,8 @@
 	    </div>
     </div>   
 </body>
-</html>
 4.竖向自适应（为固定div设置margin）
 
-<html>
-<head>
-    <meta charset="utf-8">
-	<title>div自适应</title>
 	<style type="text/css" media="screen">
 	    * {
 	    	margin: 0;
@@ -155,7 +139,6 @@
 			background-color: blue;
 		}
 	</style>
-</head>
 <body>
     <div class="container">
 	    <div class="main">
@@ -164,4 +147,3 @@
 	    </div>
     </div>   
 </body>
-</html>
