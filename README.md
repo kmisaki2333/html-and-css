@@ -29,10 +29,10 @@
 		}
 	</style>
 
-<div class="main">
+     <div class="main">
 	<div class="fir"></div>
 	<div class="sec"></div>
-</div>
+    </div>
 
 2.横向自适应（浮动布局）
 
@@ -96,14 +96,14 @@
 			background-color: blue;
 		}
 	</style>
-<body>
-    <div class="container">
+    <body>
+        <div class="container">
 	    <div class="main">
-		    <div class="fir"></div>
-		    <div class="sec"></div>
+		<div class="fir"></div>
+		<div class="sec"></div>
 	    </div>
-    </div>   
-</body>
+        </div>   
+    </body>
 4.竖向自适应（为固定div设置margin）
 
 	<style type="text/css" media="screen">
@@ -139,11 +139,11 @@
 			background-color: blue;
 		}
 	</style>
-<body>
-    <div class="container">
+    <body>
+        <div class="container">
 	    <div class="main">
-		    <div class="fir"></div>
-		    <div class="sec"></div>
+		<div class="fir"></div>
+		<div class="sec"></div>
 	    </div>
-    </div>   
-</body>
+        </div>   
+    </body>
