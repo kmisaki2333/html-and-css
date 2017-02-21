@@ -29,10 +29,10 @@
 		}
 	</style>
 
-     <div class="main">
-	<div class="fir"></div>
-	<div class="sec"></div>
-    </div>
+       <div class="main">
+	  <div class="fir"></div>
+	  <div class="sec"></div>
+      </div>
 
 2.横向自适应（浮动布局）
 
